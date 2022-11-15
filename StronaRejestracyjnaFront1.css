@@ -1,0 +1,36 @@
+body
+{
+    background-color: #a2863e;
+}
+
+#Tia{
+
+    
+    
+    height: 230px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    
+
+}
+
+
+#L1{
+    margin-top: 5px;
+    padding-top: 10px;
+    color: Blue;
+}
+
+
+ 
+#pass_error{
+    color:red;
+    font-size: 16,5px;
+    float:right;}
+
+#pass_error{
+    color:green;
+    font-size: 16,5px;
+    float:right;}
